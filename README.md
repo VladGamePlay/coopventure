@@ -2,4 +2,4 @@
 Игра от коопера - кооперам
 
 # GIF's
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://raw.githubusercontent.com/VladGamePlay/coopventure/gif's/looking_for_secrets.gif)
